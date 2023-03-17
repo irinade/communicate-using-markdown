@@ -11,3 +11,8 @@ If knoweldge > 0:
 Else:
   print("Indeed, you hold the wisdom to know that you know nothing!")
 ```
+
+**To become wiser:**
+- [x] Acknowledge you know nothing
+- [x] Stay open to possibilities
+- [ ] Understand there is no ONE truth
